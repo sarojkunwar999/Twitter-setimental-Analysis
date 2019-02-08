@@ -24,4 +24,7 @@ https://drive.google.com/drive/u/0/folders/1_bvCGIKXAtsQIGrVWtTXY1Rw9K3dLuIh
 <p align="center"><img src="images/3.PNG" ></p>
 <p align="center"><img src="images/4.PNG" ></p>
 
-
+### Team member
+Saroj Kunwar
+Bibek KC
+Ashish Subedi
